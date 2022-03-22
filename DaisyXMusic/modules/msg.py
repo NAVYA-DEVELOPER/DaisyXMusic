@@ -108,7 +108,7 @@ f"""
 f"""
 **=>> Song Download 🎸**
 
-- /video [song mame]: Download video song from youtube
+- /vplay [song mame]: Download video song from youtube
 - /song [song name]: Download audio song from youtube
 - /saavn [song name]: Download song from saavn
 - /deezer [song name]: Download song from deezer
