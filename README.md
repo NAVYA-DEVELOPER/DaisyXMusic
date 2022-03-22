@@ -34,7 +34,7 @@
 
 Get pyrogram (p)  `SESSION` from here:
 
-[![P & T STRING](https://t.me//NAVYaSG_BoT)
+[P & T STRING](https://t.me//NAVYaSG_BoT)
 
 ### ⚔ Self-hosting (For Devs) 
 ```sh
@@ -45,7 +45,7 @@ $ cd DaisyXMusic
 # Install All Requirements 
 $ pip3 install -r requirements.txt
 # Fork This Repo and fill local.env and config.py both with your own values.Then Start The Bot
-$ python3 -m DaisyXMusic
+$ python3 -m Navya
 ```
 
 ### Commands for Group 🛠
