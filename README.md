@@ -2,7 +2,7 @@
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [NAVYA OP](https://github.com/Navya-Developer/Music-ompho)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+### Available on telegram as [@NavyaTwoBot](https://t.me/NavgaTwoBot)
 
 <p align="center">
   <img src="https://telegra.ph/file/73a997a672b5582f005bd.jpg">
