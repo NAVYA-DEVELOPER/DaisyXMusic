@@ -1,11 +1,11 @@
-<h1 align="centre">DAISYXMUSIC V5.0 🎵</h1>
+<h1 align="centre">NAVYAMUSIC V5.0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
+#### POWERED BY [NAVYA OP](https://github.com/Navya-Developer/Music-ompho)
 ### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/73a997a672b5582f005bd.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -26,16 +26,16 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyXMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Navya-Developer/Music-Ompho)
 
 Get pyrogram (p)  `SESSION` from here:
 
-[![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@ChankitSaini/GenerateStringSession)
+[![P & T STRING](https://t.me//NAVYaSG_BoT)
 
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/TeamDaisyX/DaisyXmusic
+$ git clone https://github.com/navya-Developer/music-ompho
 $ cd DaisyXMusic
 # Upgrade sources
 # Install All Requirements 
@@ -58,7 +58,7 @@ $ python3 -m DaisyXMusic
 - `/search <query>` - search videos on youtube with details
 - `/deezer <song name>` - download songs you want quickly via deezer
 - `/saavn <song name>` - download songs you want quickly via saavn
-- `/video <song name>` - download videos you want quickly
+- `/vplay <song name>` - download videos you want quickly
 
 #### Admins only.
 - `/player` - open music player settings panel
@@ -91,7 +91,7 @@ For linked group admins only:
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add @DaisyXBot as Channel admin with full perms
+ 3. Add @NavyTwoBot as Channel admin with full perms
  4. add helper to channel
  5. Simply send commands in your group.
 
@@ -115,18 +115,18 @@ This project is inspired on the hard work done by [Rojserbest](http://github.com
 Also DaisyXmusic is inspired by many opensource bots and userbots
 
 #### Developers &Contribtors
-- [InukaASiTH](https://github.com/InukaAsith): Dev
-- [Technical-Hunter](https://github.com/Technical-Hunter): Dev
-- [Rojserbest](http://github.com/rojserbest): Dev
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [Bemro](https://github.com/bemroofficial): Dev
+- [NAVYA](https://github.com/navya-Developer): Navya
+- [SUSHIL](https://github.com/SUSHILxPLYER): Sushil
+- [SHUBHI](http://github.com/SUSHILxSPAM): SHUBHI
+- [BRANCH](https://github.com/Navya-Developer/): GitHub
+- [NANCY](https://github.com/SUSHILxMUSIC): Baby
 - [QueenArzoo](https://github.com/QueenArzoo): Dev
 - [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
 - [Hamker Cat](https://github.com/thehamkercat/)
 - [Anjana-Ma](https://github.com/Anjana-Ma): 
 - [ImJanindu](https://github.com/ImJanindu): 
 - [MARSHALX](https://github.com/MarshalX): TgCalls
-- [Original Repo owners](https://github.com/CallsMusic/CallsMusic)
+- [Original Repo owners](https://github.com/NAVYA-DEVELOPER/Music-ompho)
 
 
 
@@ -134,9 +134,9 @@ Also DaisyXmusic is inspired by many opensource bots and userbots
 
 ## Copyright & License 👮
 
- - Copyright (C) 2020 - 2021 by [TeamDaisyX](github.com/teamdaisyx) ❤️️
- - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/TeamDaisyX/DaisyXMusic/blob/master/LICENSE)
+ - Copyright (C) 2020 - 2021 by [Navya](github.com/navya-Developer) ❤️️
+ - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/navya-developer/Music-ompho/blob/master/LICENSE)
     
 DaisyXMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
 
-## Made with ♥️ by [TeamDaisyX](https://github.com/TeamDaisyX)
+## Made with ♥️ by [Navya](https://github.com/Navya-Developer)
