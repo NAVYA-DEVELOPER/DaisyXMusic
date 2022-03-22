@@ -24,6 +24,10 @@
 
 ## 🚀 Deployment
 
+### ❤ Railway
+
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Navya-developer/MUSIC-OP-HMM&envs=API_ID,API_HASH,BOT_TOKEN,STRING_SESSION,DURATION_LIMIT,SUDO_USERS,PMPERMIT,UPDATES_CHANNEL,BG_IMAGE,ARQ_API_KEY,ASSISTANT_NAME,PROJECT_NAME,SUPPORT_GROUP,BOT_NAME,BOT_USERNAME)
+
 ### 💜 Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Navya-Developer/Music-Ompho)
