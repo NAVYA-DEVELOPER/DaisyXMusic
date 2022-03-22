@@ -34,7 +34,7 @@
 
 Get pyrogram (p)  `SESSION` from here:
 
-[https://telegra.ph/file/ff3e4bf6174cb86a64ac7.jpg[P & T STRING](https://t.me//NAVYaSG_BoT)
+[![P & T STRING](https://t.me//NAVYaSG_BoT)
 
 ### ⚔ Self-hosting (For Devs) 
 ```sh
